@@ -1,0 +1,29 @@
+.shell {
+  max-width: var(--page-max-width);
+  margin: 0 auto;
+  padding: var(--spacing-32) var(--spacing-24) var(--spacing-64);
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-32);
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-6);
+  padding-bottom: var(--spacing-24);
+  border-bottom: 1px solid var(--color-mist-divider);
+}
+
+.title {
+  font-size: var(--text-heading);
+  font-weight: 700;
+  color: var(--color-ink-black);
+  letter-spacing: -0.9px;
+  line-height: 1.2;
+}
+
+.subtitle {
+  font-size: var(--text-body-lg);
+  color: var(--color-fog-text);
+}

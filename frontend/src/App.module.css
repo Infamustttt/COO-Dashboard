@@ -1,0 +1,14 @@
+.main {
+  padding-top: var(--nav-height);
+  min-height: 100vh;
+  background: var(--color-cream-surface);
+}
+
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-size: var(--text-body);
+  color: var(--color-fog-text);
+}

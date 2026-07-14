@@ -1,0 +1,12 @@
+pandas==2.2.0
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.27
+requests==2.31.0
+python-dotenv==1.0.1
+openai>=1.55.3
+fastapi==0.109.2
+uvicorn==0.27.1
+apscheduler==3.10.4
+pytest==8.0.0
+faker==24.0.0
+python-jose==3.3.0

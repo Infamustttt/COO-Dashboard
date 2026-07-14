@@ -1,0 +1,121 @@
+employee_id,full_name,email,designation,department,practice_area,reporting_manager,employment_type,location,skills,total_allocation_pct,utilization_status,bench_since,availability_date,status,joining_date,last_updated
+EMP-0001,Connor West,dwhite@example.org,Senior Dev,Design,ERP,Angela Morton,Contract,Chennai,"['Python', 'QA', 'BA', 'Java']",88.1,Optimal,,2026-07-08,On Leave,2025-05-28,2026-06-11
+EMP-0002,Annette Pearson,novaksara@example.org,QA Engineer,Data,Mobile,John Lewis,Full-time,Remote,"['React', 'Java', 'QA']",85.1,Optimal,,2026-07-13,On Leave,2025-06-10,2026-06-11
+EMP-0003,Anthony Gray,ybaker@example.com,PM,QA,Web,Michael Cross,Full-time,Hyderabad,"['Python', 'UI/UX']",43.6,Optimal,,2026-06-26,Exited,2025-06-01,2026-06-11
+EMP-0004,Mary Tucker,kennethnovak@example.net,Junior Dev,Data,Mobile,Amy Edwards,Full-time,Chennai,"['Cloud', 'DevOps', 'React']",110.5,Optimal,,2026-07-22,On Leave,2026-03-17,2026-06-11
+EMP-0005,John Calhoun,brianromero@example.org,PM,Engineering,Mobile,Barry Hensley,Full-time,Hyderabad,"['BA', 'Scrum Master', 'Python', 'QA']",97.6,Optimal,,2026-06-26,Exited,2024-01-17,2026-06-11
+EMP-0006,Todd Hudson,harveyrobert@example.net,PM,Data,ERP,Emily Green,Contract,Chennai,"['BA', 'Cloud', 'Scrum Master', 'Java']",59.3,Optimal,,2026-07-28,Exited,2024-12-18,2026-06-11
+EMP-0007,Emily Baker,emilyevans@example.com,PM,PMO,Web,Taylor Smith,Contract,Hyderabad,"['Scrum Master', 'Java', 'QA']",33.7,Optimal,2026-04-13,2026-06-26,Active,2024-08-07,2026-06-11
+EMP-0008,Kristine Garcia,williamanderson@example.com,Junior Dev,QA,Data,Sherry Wood,Full-time,Chennai,"['React', 'DevOps', 'Java', 'BA']",116.1,Optimal,,2026-07-07,Active,2025-01-04,2026-06-11
+EMP-0009,Roy Warner,contrerasangela@example.net,Senior Dev,Data,Mobile,Shawn Baker,Full-time,Remote,"['Scrum Master', 'Python', 'Data Engineering']",54.1,Optimal,,2026-06-30,On Leave,2026-02-04,2026-06-11
+EMP-0010,Natalie Moore,cassandra53@example.net,PM,Data,ERP,Deborah Freeman,Full-time,Chennai,"['QA', 'Cloud']",115.9,Optimal,,2026-07-12,Active,2024-08-24,2026-06-11
+EMP-0011,Sarah Davis,ccalderon@example.org,PM,Data,Data,Carlos Whitney,Contract,Hyderabad,"['BA', 'Python', 'Cloud', 'QA']",87.0,Optimal,,2026-07-17,On Leave,2023-12-09,2026-06-11
+EMP-0012,Jeremy Thornton,rodriguezsierra@example.net,Senior Dev,Data,Data,Kimberly Davenport,Full-time,Pune,"['Data Engineering', 'DevOps', 'Scrum Master']",83.6,Optimal,,2026-07-01,Active,2026-03-03,2026-06-11
+EMP-0013,Brittany Anderson,michael05@example.org,PM,Data,Web,Mary Gomez,Full-time,Chennai,"['BA', 'Python']",49.3,Optimal,,2026-08-10,Active,2025-07-11,2026-06-11
+EMP-0014,Shelly Dickson,sarayoung@example.org,Junior Dev,Engineering,Data,Rita Keith,Full-time,Bangalore,"['React', 'DevOps', 'UI/UX', 'BA']",8.9,Optimal,2026-06-04,2026-07-23,Active,2026-05-12,2026-06-11
+EMP-0015,Norman Cook,vpham@example.org,Tech Lead,DevOps,Data,Richard Rodriguez,Full-time,Hyderabad,"['Java', 'Python', 'QA']",28.3,Optimal,2026-06-10,2026-07-17,On Leave,2024-10-03,2026-06-11
+EMP-0016,Shannon Walker,ybailey@example.org,BA,QA,Cloud,Matthew Ross,Full-time,Bangalore,"['QA', 'Java', 'Python', 'React']",51.6,Optimal,,2026-07-15,Active,2024-09-28,2026-06-11
+EMP-0017,Benjamin Ayala,darlene68@example.com,Tech Lead,Engineering,Mobile,Ashley Waller,Contract,Bangalore,"['Data Engineering', 'Scrum Master', 'React']",9.0,Optimal,2026-06-03,2026-07-08,Active,2025-03-02,2026-06-11
+EMP-0018,Victor Baker,carlsonmichael@example.com,Tech Lead,Design,ERP,William Wilson,Contract,Chennai,"['UI/UX', 'QA', 'Data Engineering']",125.5,Optimal,,2026-08-04,Active,2026-04-29,2026-06-11
+EMP-0019,Cheryl Williams,zsmith@example.net,Senior Dev,Data,ERP,Teresa Mclaughlin,Contract,Pune,"['Scrum Master', 'Data Engineering']",11.3,Optimal,2026-05-09,2026-06-22,Active,2024-09-12,2026-06-11
+EMP-0020,Jeffrey Rush,cindy14@example.net,Tech Lead,DevOps,ERP,Jason Powell,Contract,Remote,"['BA', 'DevOps']",103.7,Optimal,,2026-06-16,Active,2024-11-04,2026-06-11
+EMP-0021,Cameron Fisher,lbyrd@example.net,PM,QA,Mobile,Jennifer Bass,Contract,Chennai,"['Java', 'QA']",63.5,Optimal,,2026-06-25,Active,2024-05-21,2026-06-11
+EMP-0022,Daniel Floyd,steven73@example.net,Tech Lead,Data,ERP,Steven Flynn,Contract,Chennai,"['BA', 'Data Engineering', 'UI/UX', 'Scrum Master']",39.8,Optimal,2026-05-26,2026-07-10,Active,2024-05-29,2026-06-11
+EMP-0023,Bradley Robertson,clarence34@example.org,Tech Lead,Engineering,ERP,Brittany Williams,Full-time,Hyderabad,"['Scrum Master', 'QA']",30.0,Optimal,2026-04-06,2026-07-27,Active,2025-11-01,2026-06-11
+EMP-0024,Miss Patricia Gibson,jennifercruz@example.com,Tech Lead,Engineering,Data,Matthew Smith,Contract,Hyderabad,"['React', 'QA', 'Python']",68.2,Optimal,,2026-07-26,Active,2024-06-21,2026-06-11
+EMP-0025,Patricia Rodriguez,zrobinson@example.net,DevOps Engineer,DevOps,Data,Amber Wright,Contract,Bangalore,"['UI/UX', 'QA']",5.9,Optimal,2026-03-19,2026-07-11,Active,2024-08-28,2026-06-11
+EMP-0026,Joyce Solis,stephanie79@example.net,Tech Lead,Data,Cloud,Jessica Meadows,Full-time,Chennai,"['Java', 'Python', 'React']",24.0,Optimal,2026-03-19,2026-06-20,Exited,2024-07-22,2026-06-11
+EMP-0027,Christopher Hensley,pgreen@example.net,Junior Dev,Design,Mobile,Richard Washington,Full-time,Remote,"['Scrum Master', 'UI/UX', 'QA']",11.1,Optimal,2026-04-13,2026-08-05,Active,2024-11-27,2026-06-11
+EMP-0028,Jeremiah Reeves,josephflores@example.net,Junior Dev,Design,Cloud,Chris Reyes,Full-time,Hyderabad,"['Java', 'React', 'DevOps']",39.7,Optimal,2026-05-31,2026-06-22,Active,2024-02-22,2026-06-11
+EMP-0029,Daniel Perry,amy60@example.org,BA,Design,Mobile,Jean Carrillo,Contract,Bangalore,"['QA', 'UI/UX']",0.3,Optimal,2026-05-09,2026-07-25,Exited,2023-11-26,2026-06-11
+EMP-0030,Alicia Gilmore,wwoods@example.com,Tech Lead,PMO,ERP,Sarah Ashley,Full-time,Chennai,"['BA', 'DevOps']",89.4,Optimal,,2026-07-22,Active,2024-06-13,2026-06-11
+EMP-0031,Paul Payne,tracynelson@example.com,Junior Dev,Engineering,Data,George Shelton,Contract,Remote,"['UI/UX', 'QA', 'Scrum Master', 'Python']",107.5,Optimal,,2026-07-10,On Leave,2025-08-31,2026-06-11
+EMP-0032,Christopher Mcdonald,tinaferguson@example.com,Tech Lead,Design,ERP,Mary Miller,Contract,Chennai,"['UI/UX', 'Python']",52.3,Optimal,,2026-08-06,Active,2024-08-10,2026-06-11
+EMP-0033,Sean White,nicholas37@example.com,Junior Dev,Engineering,Data,Shawn Ramirez,Full-time,Pune,"['Python', 'React', 'Scrum Master', 'QA']",78.5,Optimal,,2026-07-22,Active,2024-06-25,2026-06-11
+EMP-0034,Jennifer Conley,ismith@example.org,QA Engineer,PMO,Mobile,Mrs. Marie Harrington DDS,Full-time,Chennai,"['Cloud', 'Data Engineering', 'BA']",23.6,Optimal,2026-05-26,2026-07-23,Active,2024-02-26,2026-06-11
+EMP-0035,Tiffany Gonzalez,howelljohn@example.com,BA,Data,Web,Kristy Robinson,Contract,Remote,"['Scrum Master', 'Java']",42.9,Optimal,,2026-07-01,Active,2024-01-11,2026-06-11
+EMP-0036,Pamela Jackson,stricklandfrank@example.com,QA Engineer,Design,Cloud,Alexander Collins,Contract,Chennai,"['DevOps', 'BA']",126.1,Optimal,,2026-07-04,On Leave,2025-02-06,2026-06-11
+EMP-0037,Tina Sanders,charlesvaughn@example.net,PM,Engineering,Data,Michael Turner,Contract,Remote,"['QA', 'Scrum Master']",81.3,Optimal,,2026-08-06,On Leave,2024-01-17,2026-06-11
+EMP-0038,Renee Hogan,reedross@example.com,DevOps Engineer,QA,Data,Matthew Smith,Contract,Remote,"['BA', 'Cloud']",3.8,Optimal,2026-06-01,2026-06-16,Active,2026-01-23,2026-06-11
+EMP-0039,John Hamilton,cynthia72@example.com,QA Engineer,Engineering,Data,Joseph Santos,Contract,Pune,"['QA', 'Cloud', 'Scrum Master', 'DevOps']",118.7,Optimal,,2026-06-26,Active,2024-02-10,2026-06-11
+EMP-0040,Tamara Hampton,ugraham@example.net,DevOps Engineer,Design,Data,Samuel Rivas,Full-time,Pune,"['Data Engineering', 'BA', 'QA']",49.9,Optimal,,2026-08-02,Active,2025-09-27,2026-06-11
+EMP-0041,Stephen Sanchez,qhudson@example.com,DevOps Engineer,PMO,Mobile,Johnny Nguyen,Full-time,Chennai,"['Scrum Master', 'Data Engineering', 'BA', 'QA']",38.8,Optimal,2026-05-27,2026-07-29,Active,2024-12-24,2026-06-11
+EMP-0042,Mr. David Ramirez,angela83@example.org,PM,QA,Data,Jason Peters,Contract,Hyderabad,"['Python', 'Data Engineering', 'Scrum Master']",121.3,Optimal,,2026-07-26,Exited,2024-10-09,2026-06-11
+EMP-0043,John Joseph,fmcguire@example.com,BA,PMO,Data,Michael Torres,Contract,Bangalore,"['BA', 'Data Engineering']",50.2,Optimal,,2026-08-05,Active,2026-01-27,2026-06-11
+EMP-0044,Kara Schmidt,jbarajas@example.com,DevOps Engineer,Data,Cloud,Jesse Parker,Full-time,Chennai,"['React', 'Java', 'Scrum Master', 'Cloud']",57.2,Optimal,,2026-06-27,Active,2025-08-24,2026-06-11
+EMP-0045,Nathan Stewart,jamesrodgers@example.com,Junior Dev,DevOps,ERP,Vanessa Warren,Contract,Pune,"['Scrum Master', 'BA', 'Python', 'QA']",51.7,Optimal,,2026-06-15,Active,2025-08-15,2026-06-11
+EMP-0046,Brian Lee,michaelturner@example.net,Senior Dev,PMO,Cloud,Denise Mccann,Contract,Bangalore,"['Java', 'Scrum Master', 'React', 'Data Engineering']",119.7,Optimal,,2026-06-30,Exited,2023-11-01,2026-06-11
+EMP-0047,Melissa Martinez,agarcia@example.net,Junior Dev,DevOps,Web,John Peterson,Contract,Chennai,"['DevOps', 'BA']",42.2,Optimal,,2026-07-07,Active,2025-12-04,2026-06-11
+EMP-0048,Dawn Hensley,shortrichard@example.org,Junior Dev,Design,Mobile,Melissa Hernandez,Full-time,Chennai,"['React', 'DevOps', 'Scrum Master', 'Data Engineering']",23.4,Optimal,2026-04-04,2026-06-27,Active,2025-07-28,2026-06-11
+EMP-0049,Tiffany Miller,davidduran@example.net,Tech Lead,PMO,ERP,Lisa Rowe,Full-time,Bangalore,"['Data Engineering', 'QA', 'Cloud']",1.2,Optimal,2026-05-11,2026-07-25,Active,2026-01-27,2026-06-11
+EMP-0050,Terry Evans,ntorres@example.org,PM,Data,Cloud,Natalie Meza,Full-time,Chennai,"['Data Engineering', 'QA', 'BA', 'Python']",39.3,Optimal,2026-05-01,2026-08-03,On Leave,2024-06-22,2026-06-11
+EMP-0051,Daniel Guerrero,johnarnold@example.org,PM,PMO,Cloud,Jerry Wheeler,Contract,Pune,"['UI/UX', 'Data Engineering']",1.1,Optimal,2026-06-08,2026-06-25,On Leave,2025-06-11,2026-06-11
+EMP-0052,David Mann,ojones@example.com,BA,QA,Cloud,Lori Guerrero,Full-time,Pune,"['Python', 'Data Engineering', 'React']",32.6,Optimal,2026-06-05,2026-06-16,Exited,2024-08-14,2026-06-11
+EMP-0053,Jessica Stephens,rebekahserrano@example.org,Senior Dev,QA,Data,Ricky Larson,Contract,Remote,"['QA', 'React', 'UI/UX', 'Cloud']",97.2,Optimal,,2026-08-10,Active,2025-12-18,2026-06-11
+EMP-0054,Tammy Gonzales,sbarker@example.com,PM,Engineering,Mobile,Kathryn Snyder,Full-time,Hyderabad,"['Cloud', 'BA']",38.4,Optimal,2026-04-25,2026-07-04,Active,2024-10-23,2026-06-11
+EMP-0055,Andrew Reynolds,cassandra01@example.org,Junior Dev,Data,Web,Sara Johnston,Contract,Remote,"['Data Engineering', 'Java', 'DevOps']",1.8,Optimal,2026-05-20,2026-07-11,Active,2026-03-08,2026-06-11
+EMP-0056,Yvonne Chambers,barbara27@example.net,Tech Lead,Design,Data,Sydney White,Full-time,Chennai,"['QA', 'Cloud', 'Java', 'Scrum Master']",122.6,Optimal,,2026-06-13,Exited,2024-07-22,2026-06-11
+EMP-0057,Madison Vasquez,harrisonricky@example.com,Junior Dev,Engineering,Data,Shannon Rivera,Full-time,Chennai,"['Data Engineering', 'BA', 'Cloud']",129.5,Optimal,,2026-07-18,On Leave,2024-02-20,2026-06-11
+EMP-0058,Donna Landry,gibsonleonard@example.com,BA,Engineering,Mobile,Raymond Hancock,Contract,Pune,"['Data Engineering', 'DevOps']",115.1,Optimal,,2026-07-09,Active,2024-05-13,2026-06-11
+EMP-0059,April Booth,mgutierrez@example.net,Junior Dev,PMO,Web,Peter Garrett,Contract,Bangalore,"['QA', 'DevOps', 'Java']",111.2,Optimal,,2026-08-10,Exited,2024-12-23,2026-06-11
+EMP-0060,Christina Dunn,samuel71@example.org,BA,PMO,ERP,Lisa Allen,Full-time,Bangalore,"['DevOps', 'React', 'UI/UX']",11.9,Optimal,2026-04-09,2026-06-15,Exited,2025-04-04,2026-06-11
+EMP-0061,Juan Tran,walkermaureen@example.org,PM,QA,Web,Bruce Collier,Full-time,Remote,"['QA', 'React']",26.9,Optimal,2026-04-09,2026-06-19,Active,2025-12-10,2026-06-11
+EMP-0062,Dr. Jordan Hill PhD,jsanchez@example.org,PM,Engineering,Data,Thomas Romero,Full-time,Pune,"['UI/UX', 'Data Engineering']",22.7,Optimal,2026-06-05,2026-06-12,Active,2023-11-07,2026-06-11
+EMP-0063,Sharon Hill,ymorgan@example.net,DevOps Engineer,Engineering,Cloud,Aaron Barber,Contract,Chennai,"['BA', 'Java', 'Scrum Master']",16.5,Optimal,2026-05-05,2026-07-13,Active,2025-06-05,2026-06-11
+EMP-0064,Lauren Keller,seanwashington@example.com,DevOps Engineer,DevOps,Mobile,Kimberly Gibson,Full-time,Bangalore,"['Cloud', 'UI/UX', 'Java']",5.6,Optimal,2026-06-05,2026-07-12,On Leave,2024-12-12,2026-06-11
+EMP-0065,Colin Terry,xhall@example.com,Tech Lead,Design,Data,Patrick Thornton,Full-time,Hyderabad,"['UI/UX', 'BA', 'Data Engineering']",9.6,Optimal,2026-03-23,2026-07-05,Exited,2025-03-11,2026-06-11
+EMP-0066,Jasmin Alvarado,tylerjohnson@example.net,DevOps Engineer,Data,Cloud,Evelyn Garcia,Full-time,Remote,"['DevOps', 'Cloud', 'Scrum Master', 'Java']",38.3,Optimal,2026-05-16,2026-07-07,Active,2024-12-22,2026-06-11
+EMP-0067,Ariana Lozano,bowenrobert@example.net,BA,Engineering,Web,Angela Harrington,Contract,Pune,"['QA', 'Data Engineering', 'React', 'BA']",51.8,Optimal,,2026-08-09,Active,2023-12-17,2026-06-11
+EMP-0068,Marcus Sanders,christianmelissa@example.net,Junior Dev,Data,Cloud,Eugene Higgins,Contract,Hyderabad,"['Python', 'BA', 'Data Engineering', 'Scrum Master']",108.1,Optimal,,2026-06-18,Active,2026-02-25,2026-06-11
+EMP-0069,Shelia Johnson,younggabrielle@example.com,PM,Data,Cloud,Nicole Hamilton MD,Contract,Remote,"['Data Engineering', 'Java', 'DevOps']",86.5,Optimal,,2026-06-20,On Leave,2024-05-01,2026-06-11
+EMP-0070,Shelia Wallace,rebecca05@example.org,Tech Lead,Design,Web,James Thomas,Full-time,Pune,"['DevOps', 'Cloud', 'Python', 'QA']",110.1,Optimal,,2026-08-09,On Leave,2025-08-25,2026-06-11
+EMP-0071,Kylie Sparks,gregorylynch@example.com,Tech Lead,PMO,Web,Cynthia Durham,Contract,Pune,"['React', 'UI/UX']",34.8,Optimal,2026-04-05,2026-07-17,On Leave,2023-11-25,2026-06-11
+EMP-0072,Joel King,elizabeth74@example.net,Junior Dev,Engineering,ERP,Angela Landry,Full-time,Chennai,"['Scrum Master', 'Data Engineering', 'React']",18.4,Optimal,2026-06-02,2026-07-04,Active,2024-08-12,2026-06-11
+EMP-0073,Elizabeth Hayden DDS,mbruce@example.com,DevOps Engineer,Design,Cloud,Ashley James,Full-time,Hyderabad,"['UI/UX', 'Python']",101.0,Optimal,,2026-07-24,Active,2024-12-11,2026-06-11
+EMP-0074,Edward Lyons,spencedominique@example.com,QA Engineer,Design,Mobile,Sean Osborne,Contract,Pune,"['BA', 'Java']",86.1,Optimal,,2026-07-03,Active,2024-07-01,2026-06-11
+EMP-0075,Susan Mcgee,kimberly39@example.com,DevOps Engineer,Data,ERP,Connor King,Contract,Bangalore,"['Cloud', 'Python']",88.2,Optimal,,2026-06-11,Active,2026-05-10,2026-06-11
+EMP-0076,Patricia Becker,courtneyberger@example.net,PM,DevOps,Web,Richard Johnson,Contract,Bangalore,"['Scrum Master', 'Cloud']",27.5,Optimal,2026-03-30,2026-06-22,Active,2025-03-13,2026-06-11
+EMP-0077,Carlos Browning,julie23@example.org,DevOps Engineer,Design,Web,Sherri Diaz,Full-time,Chennai,"['Python', 'Cloud', 'UI/UX', 'DevOps']",91.5,Optimal,,2026-08-08,Active,2024-07-31,2026-06-11
+EMP-0078,Denise Martin,scoffey@example.net,DevOps Engineer,Data,Mobile,Regina Mcdonald,Contract,Bangalore,"['Python', 'Data Engineering', 'React']",74.8,Optimal,,2026-08-01,Exited,2024-12-29,2026-06-11
+EMP-0079,Paul Perez,zcoffey@example.net,Tech Lead,Engineering,Mobile,Richard Smith,Full-time,Hyderabad,"['UI/UX', 'Cloud', 'Java']",108.2,Optimal,,2026-07-06,Exited,2025-10-17,2026-06-11
+EMP-0080,Jordan Chambers,brenda51@example.net,Tech Lead,QA,Cloud,Alexander Henson,Full-time,Remote,"['DevOps', 'Data Engineering', 'BA', 'Scrum Master']",44.1,Optimal,,2026-08-02,On Leave,2024-02-13,2026-06-11
+EMP-0081,Suzanne Walker,reidsteven@example.net,Tech Lead,QA,Data,Jason Taylor,Full-time,Bangalore,"['Scrum Master', 'UI/UX']",30.7,Optimal,2026-03-31,2026-07-29,Active,2025-04-30,2026-06-11
+EMP-0082,Elizabeth Vasquez,youngamanda@example.com,DevOps Engineer,PMO,ERP,Michael Paul,Contract,Pune,"['Scrum Master', 'Java']",58.4,Optimal,,2026-07-11,Active,2024-07-21,2026-06-11
+EMP-0083,Jennifer Newton,nicolepena@example.com,DevOps Engineer,Engineering,Web,Teresa Ramirez,Full-time,Pune,"['Scrum Master', 'Python', 'BA']",103.5,Optimal,,2026-07-04,Exited,2023-12-02,2026-06-11
+EMP-0084,Claudia Wallace,melissagarcia@example.net,PM,Engineering,ERP,Steven Newman,Contract,Chennai,"['BA', 'Python', 'Scrum Master', 'Cloud']",83.8,Optimal,,2026-07-17,On Leave,2024-08-09,2026-06-11
+EMP-0085,Donald Donaldson,ndavis@example.net,DevOps Engineer,QA,Cloud,Tricia Williams,Contract,Bangalore,"['Java', 'BA', 'React']",78.7,Optimal,,2026-06-13,Active,2024-12-06,2026-06-11
+EMP-0086,William Buchanan,caseyhubbard@example.org,DevOps Engineer,Design,ERP,Robin Hall,Full-time,Pune,"['QA', 'Cloud', 'BA']",128.8,Optimal,,2026-07-30,Active,2025-05-19,2026-06-11
+EMP-0087,Rachel Carlson,michele22@example.net,BA,DevOps,Cloud,Christopher Guerrero,Contract,Bangalore,"['Cloud', 'QA', 'BA', 'Data Engineering']",6.8,Optimal,2026-06-01,2026-08-04,On Leave,2026-03-31,2026-06-11
+EMP-0088,Adrian Tyler,briannasmith@example.com,Senior Dev,DevOps,Cloud,Patrick Fox,Full-time,Pune,"['Cloud', 'React', 'Java']",78.4,Optimal,,2026-06-30,Active,2025-07-04,2026-06-11
+EMP-0089,Karen Strickland,hayesjeffrey@example.net,PM,QA,ERP,Richard Camacho,Full-time,Chennai,"['Data Engineering', 'Python', 'UI/UX', 'React']",102.9,Optimal,,2026-06-22,Exited,2024-08-29,2026-06-11
+EMP-0090,Judith Maynard,lutzmelanie@example.com,QA Engineer,QA,Data,Katherine Browning,Full-time,Hyderabad,"['QA', 'Java']",123.2,Optimal,,2026-07-13,On Leave,2026-01-17,2026-06-11
+EMP-0091,Bobby Franklin,martinezclaudia@example.net,DevOps Engineer,Engineering,Web,Erika Vang,Full-time,Remote,"['React', 'UI/UX', 'BA']",96.0,Optimal,,2026-08-03,On Leave,2025-06-15,2026-06-11
+EMP-0092,Jody Jacobs,mcguiredanny@example.net,Senior Dev,PMO,Mobile,Patricia Le,Full-time,Chennai,"['DevOps', 'Scrum Master', 'QA']",105.2,Optimal,,2026-07-29,On Leave,2024-12-17,2026-06-11
+EMP-0093,Jesse Perez,maria66@example.net,Tech Lead,Data,Data,Jeffery Ortega,Contract,Remote,"['Scrum Master', 'QA', 'Cloud']",30.4,Optimal,2026-04-12,2026-07-13,Active,2024-02-27,2026-06-11
+EMP-0094,Christian Leblanc,davischristopher@example.com,PM,Design,Data,Parker Cain,Contract,Bangalore,"['Scrum Master', 'Data Engineering', 'Java', 'BA']",106.2,Optimal,,2026-08-04,Active,2024-01-20,2026-06-11
+EMP-0095,Laurie Hoffman,elizabeth65@example.net,Tech Lead,Data,ERP,Jenny Moon,Full-time,Chennai,"['DevOps', 'Scrum Master']",37.1,Optimal,2026-04-02,2026-08-06,Active,2023-10-12,2026-06-11
+EMP-0096,Dwayne Edwards,lanejason@example.net,QA Engineer,Design,Web,Dr. Gregory Hawkins,Full-time,Chennai,"['Data Engineering', 'DevOps']",53.9,Optimal,,2026-06-12,Active,2023-12-25,2026-06-11
+EMP-0097,Donald Perez,xbruce@example.net,BA,DevOps,Data,Maria Johnson,Full-time,Bangalore,"['Scrum Master', 'React', 'UI/UX']",109.1,Optimal,,2026-07-09,On Leave,2026-03-30,2026-06-11
+EMP-0098,Sandra Adams,joshuafarmer@example.com,Senior Dev,QA,ERP,Christopher Thomas,Contract,Bangalore,"['DevOps', 'QA', 'Java']",10.3,Optimal,2026-04-14,2026-06-14,Active,2025-06-30,2026-06-11
+EMP-0099,Andrea Figueroa,davisalyssa@example.com,QA Engineer,Engineering,Cloud,Glen Wood,Contract,Remote,"['Python', 'BA', 'DevOps', 'Data Engineering']",103.2,Optimal,,2026-06-20,Active,2023-09-16,2026-06-11
+EMP-0100,Paula Bradley,wareeric@example.net,Senior Dev,Design,Mobile,Brad Ramos,Full-time,Bangalore,"['Data Engineering', 'Java', 'Python', 'DevOps']",79.9,Optimal,,2026-08-05,Active,2025-06-26,2026-06-11
+EMP-0101,Lawrence Perry,kariwilson@example.com,Tech Lead,DevOps,Cloud,Michael Watkins,Contract,Bangalore,"['DevOps', 'Java', 'Data Engineering']",50.3,Optimal,,2026-06-19,Active,2025-03-27,2026-06-11
+EMP-0102,Elizabeth Walker,smithkevin@example.org,BA,QA,Mobile,Pamela Roberts,Contract,Hyderabad,"['Java', 'Scrum Master']",44.0,Optimal,,2026-06-13,Active,2023-10-29,2026-06-11
+EMP-0103,Jonathan Jordan,omarpadilla@example.net,Junior Dev,DevOps,Web,Mary Gomez,Contract,Remote,"['QA', 'Python', 'DevOps']",102.8,Optimal,,2026-06-29,Active,2025-11-22,2026-06-11
+EMP-0104,Patrick Graham,umorse@example.net,Tech Lead,DevOps,Cloud,Jared Bowman,Contract,Chennai,"['Scrum Master', 'Cloud', 'Data Engineering']",6.2,Optimal,2026-06-04,2026-06-22,Active,2025-02-05,2026-06-11
+EMP-0105,Jared Burch,lauriemontgomery@example.net,PM,Design,Web,Anita Richard,Full-time,Chennai,"['Cloud', 'React']",47.8,Optimal,,2026-07-15,Active,2023-12-29,2026-06-11
+EMP-0106,Kevin Warren,vharrell@example.com,Tech Lead,DevOps,Mobile,Richard Jones,Contract,Hyderabad,"['Scrum Master', 'Data Engineering', 'UI/UX', 'Python']",10.4,Optimal,2026-06-05,2026-07-27,Exited,2024-09-10,2026-06-11
+EMP-0107,Kerry Lee,michael23@example.org,QA Engineer,DevOps,Cloud,Craig Morrison,Full-time,Chennai,"['BA', 'React', 'Python']",79.9,Optimal,,2026-06-20,Exited,2025-08-09,2026-06-11
+EMP-0108,Mary Thompson,kmarshall@example.net,Junior Dev,QA,Cloud,Thomas Cunningham,Full-time,Pune,"['Cloud', 'Python', 'React']",101.6,Optimal,,2026-07-24,Active,2024-09-28,2026-06-11
+EMP-0109,Lori Lin,edward17@example.com,PM,Engineering,ERP,Rebecca Vargas,Full-time,Remote,"['Cloud', 'Data Engineering', 'QA']",48.4,Optimal,,2026-06-26,Exited,2023-10-11,2026-06-11
+EMP-0110,Benjamin Murray,brownmarie@example.org,QA Engineer,Design,Mobile,Vanessa Davis,Full-time,Pune,"['Scrum Master', 'DevOps', 'QA']",95.6,Optimal,,2026-07-25,Exited,2025-01-29,2026-06-11
+EMP-0111,Janice Carpenter,colelisa@example.net,PM,Engineering,Mobile,Larry Mason,Full-time,Chennai,"['Data Engineering', 'UI/UX']",26.0,Optimal,2026-03-30,2026-07-26,Active,2025-03-23,2026-06-11
+EMP-0112,Joanna Shepherd,toni18@example.net,PM,QA,Data,David Kim,Contract,Remote,"['Java', 'DevOps']",37.7,Optimal,2026-04-20,2026-07-31,Active,2025-12-02,2026-06-11
+EMP-0113,Joseph Moore,samantha66@example.com,Tech Lead,Design,ERP,Amy Mccoy,Contract,Chennai,"['React', 'Java', 'BA', 'UI/UX']",64.2,Optimal,,2026-07-06,Exited,2025-09-20,2026-06-11
+EMP-0114,Gary Grant,umitchell@example.net,QA Engineer,Data,ERP,Lindsey Hernandez,Full-time,Hyderabad,"['Java', 'Scrum Master', 'BA']",62.2,Optimal,,2026-07-24,Active,2024-01-24,2026-06-11
+EMP-0115,Matthew Rangel,tammy62@example.net,PM,Design,ERP,Angela Hansen,Full-time,Hyderabad,"['BA', 'Python', 'Java']",114.1,Optimal,,2026-07-14,Active,2024-03-01,2026-06-11
+EMP-0116,Erin Anderson,lucasrodney@example.com,Tech Lead,Design,Web,Eric Bean,Full-time,Pune,"['BA', 'QA']",21.1,Optimal,2026-04-10,2026-06-19,On Leave,2025-06-05,2026-06-11
+EMP-0117,Ralph Lee,ericphillips@example.org,DevOps Engineer,PMO,Data,Kimberly Rodgers,Full-time,Hyderabad,"['UI/UX', 'Data Engineering', 'Python', 'Cloud']",69.4,Optimal,,2026-08-05,Active,2023-10-31,2026-06-11
+EMP-0118,Mary Walter,carlamoore@example.org,PM,Design,Web,Patricia Lamb,Full-time,Remote,"['UI/UX', 'Python', 'Scrum Master']",123.3,Optimal,,2026-08-06,On Leave,2024-07-07,2026-06-11
+EMP-0119,Jeffrey Jenkins,tarabishop@example.net,Tech Lead,Data,Data,Cynthia Allen,Contract,Pune,"['Java', 'Python', 'React']",83.4,Optimal,,2026-07-09,Active,2025-01-02,2026-06-11
+EMP-0120,Rachel Mckee,michealvalentine@example.com,Senior Dev,DevOps,Web,Douglas Reyes,Contract,Chennai,"['Data Engineering', 'BA']",26.5,Optimal,2026-05-29,2026-07-16,Active,2024-05-19,2026-06-11

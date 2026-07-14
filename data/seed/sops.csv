@@ -1,0 +1,6 @@
+sop_id,title,category,version,owner,last_updated,applicable_to,document_url,status,related_escalation_type
+SOP-01,Resource Allocation Process,HR,v1.2,Candice Ramirez,2026-04-05,['All'],https://notion.so/sop-1,Active,
+SOP-02,Escalation Handling Protocol,Delivery,v2.0,Brandon White,2026-05-13,['All'],https://notion.so/sop-2,Active,
+SOP-03,Client Review Cadence,Client Management,v1.0,Deanna Kennedy,2026-04-20,['All'],https://notion.so/sop-3,Active,Delivery Risk
+SOP-04,Onboarding Checklist,HR,v3.1,Shawn Santos,2026-03-25,['All'],https://notion.so/sop-4,Active,People
+SOP-05,SLA Review Process,Delivery,v1.5,Caleb Carroll,2026-03-21,['All'],https://notion.so/sop-5,Active,Delivery Risk

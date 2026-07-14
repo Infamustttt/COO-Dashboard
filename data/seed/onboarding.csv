@@ -1,0 +1,16 @@
+employee_id,joining_date,assigned_buddy,assigned_manager,laptop_issued,email_created,system_access,induction_done,policies_signed,first_project_assigned,checklist_pct,onboarding_score,status
+EMP-0007,2026-04-22,Rose Mcdonald,Martin Wilcox,True,True,"{""jira"": true, ""slack"": true, ""confluence"": false}",True,True,False,74.0,4.9,In Progress
+EMP-0008,2026-05-12,Robert Lucas,Brian Miller,False,True,"{""jira"": true, ""slack"": true, ""confluence"": false}",False,False,False,28.0,3.4,In Progress
+EMP-0010,2026-05-14,Sarah Johnson,Joshua Jones,False,True,"{""jira"": true, ""slack"": true, ""confluence"": false}",False,False,False,24.0,4.3,In Progress
+EMP-0012,2026-04-21,Nicole Parker,Margaret Johnson,True,True,"{""jira"": true, ""slack"": true, ""confluence"": false}",True,True,False,67.0,4.3,In Progress
+EMP-0013,2026-04-14,William Cunningham,Rachel Williams,True,True,"{""jira"": true, ""slack"": true, ""confluence"": false}",False,True,False,52.0,3.2,In Progress
+EMP-0014,2026-05-01,Tony Smith,Douglas Sanders,True,True,"{""jira"": true, ""slack"": true, ""confluence"": false}",False,True,False,52.0,4.4,In Progress
+EMP-0016,2026-05-23,Paul Swanson,Michele Davis,True,True,"{""jira"": true, ""slack"": true, ""confluence"": false}",True,True,True,96.0,4.5,In Progress
+EMP-0017,2026-06-01,Patrick Garcia,Brittany Matthews,True,True,"{""jira"": true, ""slack"": true, ""confluence"": false}",True,True,True,82.0,4.3,In Progress
+EMP-0018,2026-05-11,Kevin Christian,Christian Ford,False,True,"{""jira"": true, ""slack"": true, ""confluence"": false}",False,False,False,27.0,4.7,In Progress
+EMP-0019,2026-04-29,Anna Higgins,Rhonda Pena,True,True,"{""jira"": true, ""slack"": true, ""confluence"": false}",True,True,False,72.0,4.3,In Progress
+EMP-0020,2026-04-12,Candace Stuart,Monica Curtis,True,True,"{""jira"": true, ""slack"": true, ""confluence"": false}",False,True,False,56.0,3.2,In Progress
+EMP-0021,2026-05-13,Gloria Floyd,Isaac Chase,False,True,"{""jira"": true, ""slack"": true, ""confluence"": false}",False,False,False,27.0,4.3,In Progress
+EMP-0022,2026-04-26,Steven Schroeder,Daniel Bishop,True,True,"{""jira"": true, ""slack"": true, ""confluence"": false}",True,True,True,93.0,3.0,In Progress
+EMP-0023,2026-05-18,Christian Burton,Robert Thomas PhD,True,True,"{""jira"": true, ""slack"": true, ""confluence"": false}",True,True,False,66.0,4.0,In Progress
+EMP-0024,2026-04-18,Tracy Harrington,Brandon Edwards,True,True,"{""jira"": true, ""slack"": true, ""confluence"": false}",True,True,False,75.0,4.6,In Progress

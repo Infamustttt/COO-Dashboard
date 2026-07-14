@@ -1,0 +1,41 @@
+sla_id,client_name,project_id,sla_type,sla_description,measurement_period,target_value,actual_value,compliance_status,breach_count,breach_dates,has_penalty,penalty_amount,assigned_owner,last_checked
+SLA-01-UPT,Client A,PROJ-005,Uptime,Uptime commitment for Client A,Monthly,99.5,96.87,Met,2,,True,47849.39,Nancy Dorsey,2026-06-11
+SLA-01-RSP,Client A,PROJ-033,Response Time,Response Time commitment for Client A,Monthly,4.0,3.87,Met,1,,False,27154.01,Lindsey Howard,2026-06-11
+SLA-01-RSL,Client A,PROJ-023,Resolution Time,Resolution Time commitment for Client A,Monthly,24.0,22.77,Met,1,,True,33166.72,Jacob Gonzalez,2026-06-11
+SLA-01-DEL,Client A,PROJ-019,Delivery,Delivery commitment for Client A,Monthly,95.0,88.95,Met,1,,False,49831.55,James Adams,2026-06-11
+SLA-02-UPT,Client B,PROJ-001,Uptime,Uptime commitment for Client B,Monthly,99.5,101.49,Met,0,,False,22283.36,Ann Henderson,2026-06-11
+SLA-02-RSP,Client B,PROJ-016,Response Time,Response Time commitment for Client B,Monthly,4.0,4.14,Met,0,,False,19068.63,Cody Mccoy,2026-06-11
+SLA-02-RSL,Client B,PROJ-008,Resolution Time,Resolution Time commitment for Client B,Monthly,24.0,24.37,Met,3,,False,27011.87,Jose Mcpherson,2026-06-11
+SLA-02-DEL,Client B,PROJ-034,Delivery,Delivery commitment for Client B,Monthly,95.0,88.17,Met,2,,False,24340.24,Maria Reeves,2026-06-11
+SLA-03-UPT,Client C,PROJ-013,Uptime,Uptime commitment for Client C,Monthly,99.5,92.57,Met,2,,True,47410.59,Kelsey Holland,2026-06-11
+SLA-03-RSP,Client C,PROJ-035,Response Time,Response Time commitment for Client C,Monthly,4.0,3.63,Met,0,,True,10539.07,John Miller,2026-06-11
+SLA-03-RSL,Client C,PROJ-014,Resolution Time,Resolution Time commitment for Client C,Monthly,24.0,23.69,Met,3,,True,10278.98,Elizabeth Joyce,2026-06-11
+SLA-03-DEL,Client C,PROJ-028,Delivery,Delivery commitment for Client C,Monthly,95.0,96.98,Met,0,,True,1187.65,Elizabeth Wright,2026-06-11
+SLA-04-UPT,Client D,PROJ-003,Uptime,Uptime commitment for Client D,Monthly,99.5,99.69,Met,0,,True,2713.4,Keith Arnold,2026-06-11
+SLA-04-RSP,Client D,PROJ-005,Response Time,Response Time commitment for Client D,Monthly,4.0,4.06,Met,1,,False,20381.64,Kayla Dixon,2026-06-11
+SLA-04-RSL,Client D,PROJ-026,Resolution Time,Resolution Time commitment for Client D,Monthly,24.0,22.96,Met,3,,False,844.55,John Cortez,2026-06-11
+SLA-04-DEL,Client D,PROJ-035,Delivery,Delivery commitment for Client D,Monthly,95.0,94.47,Met,0,,True,37798.03,Heather Richards,2026-06-11
+SLA-05-UPT,Client E,PROJ-005,Uptime,Uptime commitment for Client E,Monthly,99.5,97.47,Met,2,,True,14491.83,Alexis Yang,2026-06-11
+SLA-05-RSP,Client E,PROJ-006,Response Time,Response Time commitment for Client E,Monthly,4.0,3.99,Met,2,,False,19070.68,Richard Cameron,2026-06-11
+SLA-05-RSL,Client E,PROJ-002,Resolution Time,Resolution Time commitment for Client E,Monthly,24.0,24.47,Met,3,,True,26673.39,Jason Bush,2026-06-11
+SLA-05-DEL,Client E,PROJ-026,Delivery,Delivery commitment for Client E,Monthly,95.0,85.8,Met,2,,True,14902.83,Nathaniel Todd,2026-06-11
+SLA-06-UPT,Client F,PROJ-024,Uptime,Uptime commitment for Client F,Monthly,99.5,102.56,Met,0,,True,6161.76,Robert Peterson,2026-06-11
+SLA-06-RSP,Client F,PROJ-026,Response Time,Response Time commitment for Client F,Monthly,4.0,3.52,Met,0,,False,10502.64,Rhonda Clark,2026-06-11
+SLA-06-RSL,Client F,PROJ-023,Resolution Time,Resolution Time commitment for Client F,Monthly,24.0,24.15,Met,1,,False,45281.4,William Green,2026-06-11
+SLA-06-DEL,Client F,PROJ-010,Delivery,Delivery commitment for Client F,Monthly,95.0,97.35,Met,1,,True,11039.4,Jessica Smith,2026-06-11
+SLA-07-UPT,Client G,PROJ-013,Uptime,Uptime commitment for Client G,Monthly,99.5,101.68,Met,0,,True,33548.9,Adam Rios,2026-06-11
+SLA-07-RSP,Client G,PROJ-004,Response Time,Response Time commitment for Client G,Monthly,4.0,3.91,Met,3,,True,14532.63,Jared Sandoval,2026-06-11
+SLA-07-RSL,Client G,PROJ-007,Resolution Time,Resolution Time commitment for Client G,Monthly,24.0,21.39,Met,1,,False,47577.0,Molly Turner,2026-06-11
+SLA-07-DEL,Client G,PROJ-016,Delivery,Delivery commitment for Client G,Monthly,95.0,89.37,Met,0,,False,30975.79,Lisa Vazquez,2026-06-11
+SLA-08-UPT,Client H,PROJ-021,Uptime,Uptime commitment for Client H,Monthly,99.5,102.79,Met,3,,False,16417.3,Megan Ballard,2026-06-11
+SLA-08-RSP,Client H,PROJ-010,Response Time,Response Time commitment for Client H,Monthly,4.0,3.97,Met,2,,False,47932.95,Chad Lee,2026-06-11
+SLA-08-RSL,Client H,PROJ-021,Resolution Time,Resolution Time commitment for Client H,Monthly,24.0,21.81,Met,1,,True,35609.96,Melissa Lopez,2026-06-11
+SLA-08-DEL,Client H,PROJ-018,Delivery,Delivery commitment for Client H,Monthly,95.0,93.95,Met,2,,True,33979.01,John Thomas,2026-06-11
+SLA-09-UPT,Client I,PROJ-031,Uptime,Uptime commitment for Client I,Monthly,99.5,93.17,Met,3,,False,17937.08,Ryan Garrison,2026-06-11
+SLA-09-RSP,Client I,PROJ-007,Response Time,Response Time commitment for Client I,Monthly,4.0,3.73,Met,1,,True,42089.65,Angelica Carrillo,2026-06-11
+SLA-09-RSL,Client I,PROJ-009,Resolution Time,Resolution Time commitment for Client I,Monthly,24.0,24.62,Met,1,,False,36677.23,Javier Wilson,2026-06-11
+SLA-09-DEL,Client I,PROJ-005,Delivery,Delivery commitment for Client I,Monthly,95.0,93.72,Met,0,,True,40632.12,Nancy Wallace,2026-06-11
+SLA-10-UPT,Client J,PROJ-014,Uptime,Uptime commitment for Client J,Monthly,99.5,97.35,Met,0,,False,27173.47,Mr. Jerry Sanchez,2026-06-11
+SLA-10-RSP,Client J,PROJ-031,Response Time,Response Time commitment for Client J,Monthly,4.0,4.2,Met,1,,False,19624.92,Ronald Myers,2026-06-11
+SLA-10-RSL,Client J,PROJ-019,Resolution Time,Resolution Time commitment for Client J,Monthly,24.0,24.76,Met,1,,False,25056.16,Brian Abbott,2026-06-11
+SLA-10-DEL,Client J,PROJ-024,Delivery,Delivery commitment for Client J,Monthly,95.0,85.06,Met,0,,True,42399.09,Jason Simpson,2026-06-11

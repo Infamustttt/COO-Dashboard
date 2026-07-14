@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem \"C:\\\\Users\\\\Aarush\\\\Desktop\\\\celebal tech tasks\\\\COO Operations Centre\")",
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\Aarush\\\\Desktop\\\\celebal tech tasks\\\\COO Operations Centre\" -Recurse | Where-Object { !$_.PSIsContainer } | Select-Object -ExpandProperty FullName | ForEach-Object { $_.Replace\\(\"C:\\\\Users\\\\Aarush\\\\Desktop\\\\celebal tech tasks\\\\COO Operations Centre\\\\\", \"\"\\) })",
+      "PowerShell(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\Aarush\\\\Desktop\\\\celebal tech tasks\\\\COO Operations Centre\\\\.streamlit\")",
+      "Bash(npm list *)",
+      "Bash(npm install *)",
+      "Bash(ls \"C:\\\\Users\\\\Aarush\\\\GameMakerProjects\\\\L.I.F.E\")",
+      "PowerShell(New-Item -ItemType Directory -Force \"C:\\\\Users\\\\Aarush\\\\GameMakerProjects\\\\L.I.F.E\\\\objects\\\\obj_player\")",
+      "PowerShell(New-Item -ItemType Directory -Force \"C:\\\\Users\\\\Aarush\\\\GameMakerProjects\\\\L.I.F.E\\\\objects\\\\obj_interactable\")",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "Bash(pip show *)",
+      "Bash(python -c \"import streamlit_authenticator as stauth; import inspect; print\\(inspect.getsource\\(stauth.Authenticate.login\\)\\)\")",
+      "Bash(python -c \"import streamlit_authenticator as stauth; import inspect; print\\(inspect.getsource\\(stauth.Authenticate._check_credentials\\)\\)\")",
+      "Bash(pip install *)",
+      "Read(//c/Users/Aarush/AppData/Roaming/Claude/local-agent-mode-sessions/skills-plugin/01b66d75-05f0-426a-9e20-1a14b66388d4/894f7bb2-eaf2-475f-a08d-ca7f4c0f0381/skills/docx/**)",
+      "Bash(extract-text \"C:\\\\Users\\\\Aarush\\\\Downloads\\\\Levers and Linkages_G6_S6_V2.docx\")",
+      "Bash(python scripts/office/unpack.py \"C:\\\\Users\\\\Aarush\\\\Downloads\\\\Levers and Linkages_G6_S6_V2.docx\" /tmp/levers_unpacked/)",
+      "mcp__visualize__read_me",
+      "mcp__visualize__show_widget",
+      "Bash(xargs ls -la --time-style=full-iso)",
+      "Bash(sort -k6,7)"
+    ]
+  }
+}
